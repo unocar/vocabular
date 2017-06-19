@@ -1,2 +1,2 @@
-# vocabular
+# vocabulary
 Simple language word application
